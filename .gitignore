@@ -1,0 +1,38 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Production
+/build
+
+# Logs
+*.log
+*.csv
+
+# Operating Systems
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# Testing
+/coverage
+/test-results.xml
+
+# Confidential data or environment configs
+.env
+.secret
